@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: src/main/java/pageObjects/RegisterUserAndLoginPage.java
+  checksum: 36294b8bf6fe6b2f26e36f87186dcdaf7a8844102215cca6bc977765eb610105
+  ignore_detectors: []
+scopeconfig: []
+s
